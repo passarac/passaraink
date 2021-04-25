@@ -1,4 +1,4 @@
-### Hello to Earth dwellers out there 👋
+## Hello to Earth dwellers out there 👋
 
 <!--
 **passaraink/passaraink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
